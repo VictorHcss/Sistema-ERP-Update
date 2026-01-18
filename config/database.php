@@ -1,10 +1,9 @@
 <?php
 // config/database.php
-
 $host = getenv('MYSQLHOST') ?: 'localhost';
-$db   = getenv('MYSQLDATABASE') ?: 'sistema_erp';
 $user = getenv('MYSQLUSER') ?: 'root';
 $pass = getenv('MYSQLPASSWORD') ?: '';
+$db   = getenv('MYSQLDATABASE') ?: 'erp_db';
 $port = getenv('MYSQLPORT') ?: '3306';
 
 try {
