@@ -1,4 +1,4 @@
-# Sistema ERP Web (PHP + JavaScript)
+# Sistema ERP
 
 ## Resumo
 Este projeto implementa um Sistema ERP web para gestão de clientes, produtos, vendas e estoque. O objetivo é oferecer um ambiente didático e funcional, com foco em boas práticas de integração PHP–JavaScript, visualização de dados com Chart.js e organização modular de interfaces e controladores.
@@ -93,14 +93,6 @@ Este projeto implementa um Sistema ERP web para gestão de clientes, produtos, v
 - Separação de responsabilidades por namespaces
 - Evitar múltiplas inclusões de `main.js` para prevenir conflitos de identificadores
 
-## Testes e Validação
-- Testes manuais recomendados:
-  - Carregamento do Dashboard sem erros de console
-  - Presença de dados nos cards e gráficos
-  - Navegação pelos módulos sem quebra
-  - Logout e mudanças de estado no menu
-- Integração com testes automatizados (opcional) pode ser adicionada conforme o stack do curso/disciplinas.
-
 ## Limitações
 - Parte da autenticação e persistência é demonstrativa via `localStorage` (MVP).
 - O schema de banco e camadas de serviço podem variar conforme o ambiente do aluno.
@@ -118,7 +110,7 @@ Este projeto implementa um Sistema ERP web para gestão de clientes, produtos, v
 - MDN Web Docs (DOM/JS): https://developer.mozilla.org/
 
 ## Licença
-Projeto de uso acadêmico. Licença a definir conforme a disciplina/instituição.
+Projeto de uso acadêmico.
 
 ## Autores
 - Victor H
