@@ -121,5 +121,5 @@ Este projeto implementa um Sistema ERP web para gestão de clientes, produtos, v
 Projeto de uso acadêmico. Licença a definir conforme a disciplina/instituição.
 
 ## Autores
-- Equipe do projeto/curso (preencher conforme necessidade)
+- Victor H
 
