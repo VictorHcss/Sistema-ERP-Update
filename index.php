@@ -1,6 +1,5 @@
 <?php
 date_default_timezone_set('America/Sao_Paulo');
-$host = 'localhost';
 require 'includes/auth.php';
 require 'config/database.php';
 
